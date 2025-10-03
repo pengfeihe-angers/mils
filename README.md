@@ -1,0 +1,1 @@
+This site is dedicated to the paper "Learning-guided iterated local search for the minmax multiple traveling salesman problem", published in Computers & Operations Research. You can find the instances, certificates of solutions, and codes as well as running rules.
